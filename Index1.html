@@ -1,11 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biblioteca virtual</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biblioteca Virtual</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    
+  <header>
+    <h1>📚 Biblioteca Virtual</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#libros">Libros</a></li>
+      </ul>
+    </nav>
+    <div class="carrito-icono" id="abrirCarrito">🛒 <span id="contadorCarrito">0</span></div>
+  </header>
+
+  <section id="inicio" class="banner">
+    <h2>Bienvenido a la Biblioteca Virtual</h2>
+    <p>Explora una gran colección de libros digitales y físicos</p>
+    <input type="text" id="buscador" placeholder="Buscar por título o autor..." />
+  </section>
+
+  <section id="libros" class="libros">
+    <h2>Catálogo de Libros</h2>
+    <div id="contenedorLibros" class="libros-contenedor"></div>
+  </section>
+
+  <!-- Carrito lateral -->
+  <aside id="carrito" class="carrito">
+    <h3>🛍️ Tu carrito</h3>
+    <div id="carritoItems"></div>
+    <p class="total">Total: $<span id="totalCarrito">0</span></p>
+    <button id="vaciarCarrito">Vaciar Carrito</button>
+    <button id="cerrarCarrito">Cerrar</button>
+  </aside>
+
+  <footer>
+    <p>Biblioteca Virtual © 2025 — Proyecto por [Jeremy Acosta & Anthony Villa]</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
