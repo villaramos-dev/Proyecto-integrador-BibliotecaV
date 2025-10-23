@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 10.99,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71UwSHSZRnS.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "price": 12.50,
+    "cover": "https://m.media-amazon.com/images/I/81S+9bRthfL.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 9.99,
+    "cover": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter y la Piedra Filosofal",
+    "author": "J.K. Rowling",
+    "price": 15.00,
+    "cover": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Los Juegos del Hambre",
+    "author": "Suzanne Collins",
+    "price": 11.50,
+    "cover": "https://m.media-amazon.com/images/I/91D4Zl9bR-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Percy Jackson: El ladrón del rayo",
+    "author": "Rick Riordan",
+    "price": 13.75,
+    "cover": "https://m.media-amazon.com/images/I/81t2CVWEsUL.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "price": 9.75,
+    "cover": "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Crónicas de Narnia",
+    "author": "C. S. Lewis",
+    "price": 13.25,
+    "cover": "https://m.media-amazon.com/images/I/81pzpOzH4AL.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "price": 10.00,
+    "cover": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
+  },
+  {
+    "id": 10,
+    "title": "It",
+    "author": "Stephen King",
+    "price": 17.99,
+    "cover": "https://m.media-amazon.com/images/I/71pua1M0QBL.jpg"
+
+  },
+  { 
+    "id": 11,
+    "title": "El Alquimista",
+    "author": "Paulo Coelho",
+    "price": 14.00,
+    "cover": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
