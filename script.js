@@ -12,7 +12,7 @@ let libros = [];
 let carritoCompra = [];
 
 // Cargar libros
-fetch("libros.json")
+fetch("Libros.json")
   .then(res => res.json())
   .then(data => {
     libros = data;
